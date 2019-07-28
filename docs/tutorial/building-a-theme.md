@@ -606,7 +606,7 @@ The last step to make sure that these pages build is to create the page template
 
 Create new files for the event template, and the events template:
 
-#### Event template
+#### Events template
 
 ```javascript:title=gatsby-theme-events/src/templates/events.js
 import React from "react"
@@ -616,7 +616,7 @@ const EventsTemplate = () => <p>TODO: Build the events page template</p>
 export default EventsTemplate
 ```
 
-#### Events template
+#### Event template
 
 ```javascript:title=gatsby-theme-events/src/templates/event.js
 import React from "react"
